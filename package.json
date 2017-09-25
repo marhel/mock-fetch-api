@@ -1,11 +1,11 @@
 {
   "name": "mock-fetch-api",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Mock http requests and responses using fetch API (or isomorphic-fetch). Straight forward functions makes it simple to create customizable and legible unit tests.",
   "main": "mock-fetch-api.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Larney11/mock-fetch-api.git"
+    "url": "https://github.com/marhel/mock-fetch-api.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
