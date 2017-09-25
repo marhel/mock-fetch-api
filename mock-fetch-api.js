@@ -156,8 +156,12 @@ module.exports = {
    failNextCall: function () {
 
       failNextCall = true;
-   }
+   },
 
+   cleanUp: function () {
+
+      conditions = [];
+   }
 };
 
 
